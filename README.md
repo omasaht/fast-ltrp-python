@@ -21,8 +21,8 @@ Output:
 
 | Implementation | Image Size | Time (ms) |
 | --- | --- | --- |
-| Adrian | 341x341  | 2356 |
-| Omar  | 341x341  | 29 |
+| Original | 341x341  | 2356 |
+| Mine  | 341x341  | 29 |
 
 ## License
 Copyright (c) 2020, Omar Hassan. (MIT License)
